@@ -2,7 +2,25 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Renan Bonanno, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Objetivo, Atualmente estou cursando Engenharia de Software na FIAP. Sou muito interessado por tecnologia e busco conhecer mais essa área.
+I am a Software Engineering student at FIAP, passionate about technology and software development, with a strong interest in creating innovative and efficient digital solutions. I have experience working with Python, JavaScript, HTML, React.js, and CSS, as well as knowledge of databases such as SQLite and software development methodologies.
+
+Throughout my academic journey, I have developed projects involving front-end and back-end applications, REST API integration, database management, and responsive web interfaces. I am also interested in Artificial Intelligence and emerging technologies, always seeking opportunities to expand my technical knowledge and apply it in real-world projects.
+
+I am a dedicated, adaptable, and results-oriented professional who enjoys solving problems and learning new technologies. My goal is to continue growing as a software developer, gaining practical experience, collaborating with talented teams, and contributing to impactful projects that generate value for users and businesses.
+<br>
+<p align="left">
+  <a href="https://github.com/renanbonanno" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-RENANBONANNO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <P>
+  <a href="https://www.instagram.com/renancsbonanno/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@renanbonanno_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <P>
+  <a href="www.linkedin.com/in/renanbonanno" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
